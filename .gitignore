@@ -1,3 +1,7 @@
 dev-wallet.json
 turbin3-wallet.json
 node_modules
+
+# Added by cargo
+
+/target
